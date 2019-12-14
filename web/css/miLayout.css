@@ -1,0 +1,73 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04/12/2019, 09:46:01 AM
+    Author     : cpcastillo
+*/
+.navbar-expand-md .navbar-nav .dropdown-menu {
+    position: absolute !important;
+}
+#sticky-footer {
+  flex-shrink: none;
+}
+#nav-link-custom {
+    color: black;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+#seccion1{
+    background: #ffffff
+}
+
+.section-banner{
+    background-image: url("../imagenes/background.png");
+    padding: 10rem 12rem;
+}
+
+.section-search{
+        position: relative;
+    top: -65px;
+}
+
+.best-sell{
+    padding: 6rem 0;
+        padding-top: 1rem;
+}
+
+.badge{
+    padding: 14px 25px;
+    font-size: 30px;
+    color: #3BC981;
+}
+
+.moneda{
+    font-size: 16px;
+}
+h2{
+    font-size: 60px;
+}
+.card p {
+    color: #4D4D4D;
+}
+
+.card-pc:hover{
+   box-shadow: 6px -1px 18px -2px rgba(232,232,232,1);
+}
+
+.card-search{
+    background-color: #0A1D3B;
+}
+
+.card-search label{
+    color: #fff;
+}
+
+.badge-lightblue{
+    background-color: #F4F5F9;
+}
+
+
