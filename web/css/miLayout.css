@@ -70,4 +70,39 @@ h2{
     background-color: #F4F5F9;
 }
 
+#sidebar-wrapper{
+        width: 1000px;
+    height: 785px;
+}
+
+.box-registro{
+     height: 785px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center{
+    width: 420px;
+    text-align: center;
+}
+
+.logo-box{
+    padding-top:1rem;
+    padding-bottom: 3rem;
+}
+
+.login-side{
+    width: 1200px;
+}
+.card-login{
+       height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+       width: 420px;
+    }
 

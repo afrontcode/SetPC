@@ -27,7 +27,7 @@
                     </a>
                     <ul class="nav justify-content-end">
                         <li class="nav-item">
-                            <a class="nav-link active" href="#">Ingresar</a>
+                            <a class="nav-link active" href="loginSet.jsp">Ingresar</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Registrarse</a>
