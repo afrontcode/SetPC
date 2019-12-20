@@ -100,9 +100,11 @@ h2{
   display: flex;
   justify-content: center;
   align-items: center;
+  
 }
 
-.card{
+.card-login.card{
        width: 420px;
+        box-shadow: 6px -1px 18px -2px rgba(232,232,232,1);
     }
 

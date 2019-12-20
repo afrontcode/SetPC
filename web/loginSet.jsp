@@ -24,7 +24,7 @@
             <div class="bg-light border-right" id="sidebar-wrapper">
                 <div class="box-registro">
                     <div class="center">
-                        <div>Si no tienes cuenta Registrate</div>
+                        <div> <h3 class="text-white">Si no tienes cuenta Registrate</h3></div>
                         <button type="button" class="btn btn-light mt-4">Registrate</button>
                     </div>
                 </div>
@@ -46,18 +46,22 @@
                     <div class="card-login">
                         <div class="card" style="width: 22rem;">
                             <div class="card-body">
+                                <h5 class="text-center pb-4">Ingresa a tu cuenta</h5>
                                 <form>
-                                    <div class="form-group">
+                                    <div class="form-group mb-4">
                                         
                                         <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email" aria-describedby="emailHelp">
                                         
                                     </div>
-                                    <div class="form-group">
+                                    <div class="form-group mb-4">
                                         
                                         <input type="password" class="form-control" placeholder="Password" id="exampleInputPassword1">
+                                        <a href="#"><small>Olvide mi contraseña</small></a>
                                     </div>
                                     
-                                    <button type="submit" class="btn btn-success">Ingresar</button>
+                                    <div class="text-center">
+                                        <button type="submit" class="btn btn-success">Ingresar</button>
+                                    </div>
                                 </form>
                             </div>
                         </div>
